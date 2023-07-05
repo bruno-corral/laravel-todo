@@ -1,8 +1,7 @@
 # Sobre o Projeto
 
 - Projeto realizado para exercitar conhecimentos principalmente para as tecnologias PHP e Laravel.
-- Projeto Todo é uma lista de afazeres do dia, podendo ser utilizado como uma agenda para lembrar as das
-tarefas do dia.
+- Projeto Todo é uma lista de afazeres do dia, podendo ser utilizado como uma agenda para lembrar as tarefas do dia.
 
 ## Tecnologias Utilizadas
 
