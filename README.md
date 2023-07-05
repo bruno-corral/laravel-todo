@@ -14,7 +14,7 @@ tarefas do dia.
 ## Pré-requisitos antes de utilizar o sistema
 
 - Abra o terminal do computador, vá até a pasta do projeto e execute o comando: php artisan migrate.
-- Execute o comando php aartisan db:seed para ser executado a factory de User, Category e Task para ser gerado dados fictícios para utilizar como base de dados.
+- Execute o comando php artisan db:seed para ser executado a factory de User, Category e Task para ser gerado dados fictícios para utilizar como base de dados.
 
 ## Como utilizar o sistema
 
